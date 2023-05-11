@@ -8,6 +8,8 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
   </a>
 </div>
 
+<img src="logo.svg"/>
+
 <div>
     <a href="#">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical" />
