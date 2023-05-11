@@ -21,6 +21,10 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
 
 <table>
   <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Likestagram"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=ReTwitter"></td>
+  </tr>
+  <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=pokesafari-ruby"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=rails-blog"></td>
   </tr>
@@ -29,30 +33,19 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-API"></td>
   </tr>
   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=FreshCo"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=TC2038"></td>
-  </tr>
-  <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik-API"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik"></td>
   </tr>
-  
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=BoomMoon"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Forerunner_Cam"></td>
   </tr>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Attendance-plus"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=DataStructures-Algorithms"></td>
-  </tr>
-  <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Likestagram"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=ReTwitter"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final"></td>
   </tr>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Flixter"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Pincident"></td>
   </tr>
-  <tr>
-      <td> <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final"></td>
-  </tr>
+<table>
