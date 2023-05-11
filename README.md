@@ -5,6 +5,8 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
 
 ![CarloLj GitHub stats](https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical)
 
+![CarloLj Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&hide_progress=true")
+
 ## Work I'm proud of:
 <table align="center">
 <td>
