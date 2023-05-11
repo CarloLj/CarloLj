@@ -6,7 +6,7 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true)](https://github.com/CarloLj/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style={{paddingBottom: 5}}>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
