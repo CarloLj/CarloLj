@@ -26,7 +26,7 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
   </tr>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=pokesafari-ruby"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=rails-blog"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Flixter"></td>
   </tr>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-App"></td>
@@ -37,15 +37,11 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik"></td>
   </tr>
   <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=BoomMoon"></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Forerunner_Cam"></td>
   </tr>
   <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Attendance-plus"></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final"></td>
-  </tr>
-  <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Flixter"></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Pincident"></td>
   </tr>
 <table>
