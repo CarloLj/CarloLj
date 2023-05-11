@@ -7,6 +7,8 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true)](https://github.com/CarloLj/github-readme-stats)
 
+[![Carlo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarloLj)](https://github.com/CarloLj/github-readme-stats)
+
 ## Work I'm proud of:
 <table align="center">
 <td>
