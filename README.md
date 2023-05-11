@@ -6,83 +6,64 @@ I'm passionate about Open Source technologies, Computer Graphics, Computational 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true)](https://github.com/CarloLj/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<hr>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
 ## Work I'm proud of:
 <table align="center">
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=pokesafari-ruby">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=rails-blog">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-App">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-API">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=FreshCo">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=TC2038">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik-API">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=BoomMoon">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Forerunner_Cam">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Attendance-plus">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=DataStructures-Algorithms">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Likestagram">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=ReTwitter">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Flixter">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Pincident">
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final">
-</td>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=pokesafari-ruby">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=rails-blog">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-App">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=CLog-API">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=FreshCo">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=TC2038">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik-API">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Geriatrik">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=BoomMoon">
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Forerunner_Cam">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Attendance-plus">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=DataStructures-Algorithms">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Likestagram">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=ReTwitter">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Flixter">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=Pincident">
+  </td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CarloLj&repo=OSID_Project_Final">
+  </td>
+</tr>
+
+
+
 </table>
