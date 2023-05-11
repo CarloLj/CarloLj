@@ -1,6 +1,6 @@
 <div style="width: 100%;">
-  <a href="https://github.com/CarloLj/CarloLj/logo.svg">
-    <img src="logo.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://carlolj-porfolio.uc.r.appspot.com">
+    <img src="logo.svg" style="width: 100%;" alt="Click to see my portfolio">
   </a>
 </div>
 
