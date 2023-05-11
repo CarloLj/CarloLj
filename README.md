@@ -3,12 +3,14 @@ My name is Carlo Angel Lujan Garcia, and I'm currently studying a Bachelor's In 
 I'm passionate about Open Source technologies, Computer Graphics, Computational Geometry and App & Web Develoment
 
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true" />
-</a>
+<div>
+    <a href="#">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical" />
+    </a>
+    <a href="#">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true" />
+    </a>
+</div>
 
 ## Work I'm proud of:
 
