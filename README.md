@@ -1,12 +1,12 @@
-### Hi, There 👋
-My name is Carlo Angel Lujan Garcia, and I'm currently studying a Bachelor's In Computer Science And Technology at Tecnológico de Monterrey.
-I'm passionate about Open Source technologies, Computer Graphics, Computational Geometry and App & Web Develoment
-
 <div style="width: 100%;">
   <a href="https://github.com/CarloLj/CarloLj/logo.svg">
     <img src="logo.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
+
+### Hi, There 👋
+My name is Carlo Angel Lujan Garcia, and I'm currently studying a Bachelor's In Computer Science And Technology at Tecnológico de Monterrey.
+I'm passionate about Open Source technologies, Computer Graphics, Computational Geometry and App & Web Develoment
 
 <div>
     <a href="#">
