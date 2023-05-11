@@ -1,10 +1,10 @@
-<div style="width: 100%;">
-  <img src="logo.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 ### Hi, There 👋
 My name is Carlo Angel Lujan Garcia, and I'm currently studying a Bachelor's In Computer Science And Technology at Tecnológico de Monterrey.
 I'm passionate about Open Source technologies, Computer Graphics, Computational Geometry and App & Web Develoment
+
+<div style="width: 100%;">
+  <img src="logo.svg" style="width: 100%;">
+</div>
 
 <div>
     <a href="#">
