@@ -2,9 +2,13 @@
 My name is Carlo Angel Lujan Garcia, and I'm currently studying a Bachelor's In Computer Science And Technology at Tecnológico de Monterrey.
 I'm passionate about Open Source technologies, Computer Graphics, Computational Geometry and App & Web Develoment
 
-![CarloLj GitHub stats](https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true)](https://github.com/CarloLj/github-readme-stats)
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CarloLj&show_icons=true&theme=radical" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarloLj&langs_count=20&hide_progress=true" />
+</a>
 
 ## Work I'm proud of:
 
